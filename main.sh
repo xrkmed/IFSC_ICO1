@@ -9,3 +9,10 @@ if [ -d Joao-Martins ]; then
 else
     echo "Pasta não disponível"
 fi
+
+source ramon-carvalho.sh
+if [ -d Ramon-Carvalho ]; then
+    echo "Pasta disponível"
+else
+    echo "Pasta não disponível"
+fi
