@@ -1,2 +1,2 @@
 echo "João Guilherme Milian Martins"
-mkdir Martins-Joao
+mkdir Joao-Martins
