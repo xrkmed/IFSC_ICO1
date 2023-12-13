@@ -23,3 +23,10 @@ if [ -d Breno-Santos ]; then
 else
     echo "Pasta não disponível"
 fi
+
+source caio-viana.sh
+if [ -d Caio-Viana ]; then
+    echo "Pasta disponível"
+else
+    echo "Pasta não disponível"
+fi
